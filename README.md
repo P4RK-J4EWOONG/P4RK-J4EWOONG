@@ -1,16 +1,18 @@
-### Hi there 👋
+### Deep Learning lover jae woong입니다.
 
-<!--
-**P4RK-J4EWOONG/P4RK-J4EWOONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 커뮤니티/오픈소스 활동
 
-Here are some ideas to get you started:
+- **🤗 Flax/JAX community week 참여**
+  - [Pretrain GPT2 from scratch in Korean](https://discuss.huggingface.co/t/pretrain-gpt2-from-scratch-in-korean/7832)
+  - [Flax/JAX community week 🤗 github](https://github.com/huggingface/transformers/tree/master/examples/research_projects/jax-projects#how-to-build-a-demo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **TPU + JAX/Flax를 활용하여, 직접 사전 학습시킨 GPT2-korean 공개!**
+  - 현재 공개된 GPT2 모델들(skt koGPT2, lmkorGPT)은 라이선스 문제로 상업적 활용에 제한이 있음.
+  - KLUE Dataset, KorQuAD Dataset, NIKL Corpus(국립국어원 모두의 말뭉치), Korean Text Datasets from AI-hub, oscar-korean등을 데이터로 직접 사전 학습시킨 한국어 GPT2 공개!
+  - [사전 학습시킨 GPT2-korean](https://huggingface.co/flax-community/GPT2-korean)
+  - [GPT2-korean-demo](https://huggingface.co/spaces/flax-community/GPT2-korean-demo)
+    - huggingface spaces beta 사용 가능해야 확인 가능
+
+#### 💻 수상내역
+
+- LG전자와 GIST 인공지능 연구소가 진행한 Dream_AI Hackathon 1위!
