@@ -15,4 +15,5 @@
 
 #### 💻 수상내역
 
-- LG전자와 GIST 인공지능 연구소가 진행한 Dream_AI Hackathon 1위!
+- 2020.12 엔비디아, LG전자, 인텔, AWS 등이 참여하고 인공지능산업융합사업단이 주최한 Dream_AI Hackathon 1위!
+- http://www.veritas-a.com/news/articleView.html?idxno=349725
